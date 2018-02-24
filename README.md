@@ -17,6 +17,6 @@
 ![Alt text](Aboutimg/img6.png)
 ![Alt text](Aboutimg/img7.png)
 ![Alt text](Aboutimg/img8.png)
-![Alt text](Aboutimg/img9.png)
+![Alt text](Aboutimg/img9.png)<br />
 *6. The Sdk has no restrictions and no serial number and other legal constraints.<br />
 *7. Copyright belongs to hangzhou everight electronics co., LTD., and it will not allow any form of reverse cracking and violation of the law.<br />
